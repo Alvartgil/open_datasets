@@ -1,5 +1,4 @@
 # Open Datasets / Conjuntos de datos Abiertos
-Source of Open Datasets
 
 *English version*
 
